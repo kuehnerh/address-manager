@@ -1,0 +1,4 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü¡ÒÃùÿÿÿÿ8¤»ú‰ô,
+ squid:UselessImportCheck"pRemove this unused import 'com.sap.cloud.sdk.s4hana.datamodel.odata.namespaces.businesspartner.BusinessPartner'.(ÄÑë®üÿÿÿÿ8ºäó‰ô,
+Fsquid:S1068"*Remove this unused "logger" private field.(·ì„¹ûÿÿÿÿ
